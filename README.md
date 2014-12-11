@@ -1,0 +1,4 @@
+libft
+=====
+
+Usual c functions
