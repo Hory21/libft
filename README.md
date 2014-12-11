@@ -1,4 +1,0 @@
-libft
-=====
-
-Usual c functions
